@@ -1,16 +1,21 @@
-# Projeto: GitFind
+# Project: GitWiki
 
- **Objetivo:** Projeto feito com base no curso da DIO, visando o aprendizado de tecnologia e aperfeiçoamento técnico.
+ **Objective:** Project based on [DIO](https://web.dio.me)'s React course "Formação React Developer", as a way of learning about the technology and improve technically with it.
  
- **Data da conclusão:** 22/01/2024
+ **Conclusion date:** 22/01/2024
 
-# Versões das bibliotecas:
- **Node:** v20.10.0
- 
+# Library versions
+ **Node:** v20.10.0 \
  **React:** v18.2.0
 
-# Scripts disponíveis
- Na pasta do projeto, use:
- ``npm start`` para iniciar o app no modo de desenvolvimento.
- 
- O comando também abre o link [http://localhost:3000](http://localhost:3000) para visualização no browser.
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
