@@ -2,7 +2,7 @@
 
  **Objetivo:** Projeto feito com base no curso da DIO, visando o aprendizado de tecnologia e aperfeiçoamento técnico.
  
- **Data da conclusão:** 17/01/2024
+ **Data da conclusão:** 22/01/2024
 
 # Versões das bibliotecas:
  **Node:** v20.10.0
